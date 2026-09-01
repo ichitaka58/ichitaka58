@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 
 ## 🔗 Links
 
+- Portfolio: [https://ichitaka58.site](https://ichitaka58.site)
 - Qiita: [ichitaka58](https://qiita.com/ichitaka58)
 - SNS (X):  [@taka_ichi58](https://x.com/taka_ichi58)
 
