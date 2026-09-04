@@ -19,11 +19,19 @@ Here are some ideas to get you started:
 - 趣味：推し活、焼鳥、ヒップホップ
 - 特技：数独、キラナン
 
+- Based in Fukuoka Japan.
+- Spent over 30 years in the broadcasting industry. After retiring, studied programming at G's Academy (Fukuoka DEV Class 17), graduating in October 2025. Currently honing skills through self-study.
+- Hobbies: Supporting favorite idols/artists ("oshi-katsu"), yakitori, hip-hop.
+- Special skills: Sudoku, Killer Sudoku.
+
 
 
 ## ⚒️ Skills and Learnings
 
 これまでに学んだ言語やライブラリ、ツール等です。ものによって濃淡あります。
+
+Here are the languages, libraries, and tools I have learned so far. My level of proficiency varies by technology.
+
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,react,typescript,nextjs,python,git,github,githubactions,docker,aws,cloudflare)
 
