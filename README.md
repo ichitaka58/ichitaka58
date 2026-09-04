@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ### 💻Languages
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-sandy.vercel.app/api/top-langs/?username=ichitaka58&card_width=500&theme=catppuccin_mocha">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended-sandy.vercel.app/api/top-langs/?username=ichitaka58&card_width=500&theme=shadow_blue">
   <img src="https://github-stats-extended-sandy.vercel.app/api/top-langs/?username=ichitaka58&card_width=500&theme=catppuccin_latte">
 </picture>
 
