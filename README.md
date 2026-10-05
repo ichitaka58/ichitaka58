@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-## ⚒️ Skills and Learnings
+## ⚒️ Skills and Learning
 
 これまでに学んだ言語やライブラリ、ツール等です。ものによって濃淡あります。
 
