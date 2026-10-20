@@ -28,12 +28,32 @@ Here are some ideas to get you started:
 
 ## ⚒️ Skills and Learning
 
-これまでに学んだ言語やライブラリ、ツール等です。ものによって濃淡あります。
+開発現場経験はありませんので、学習経験、個人開発レベルとなります。
 
-Here are the languages, libraries, and tools I have learned so far. My level of proficiency varies by technology.
+これまでに学んだ言語やライブラリ、ツール等です。
+
+I do not have professional development experience; my background consists of self-study and personal projects.
+
+Below are the languages, libraries, and tools I have learned.
+
+- 使用頻度多いもの Frequently used:
+  
+  `TypeScript`, `React`, `Next.js`, `PHP/Laravel`, `TailwindCSS`, `JavaScript`, `GitHub`
 
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,react,typescript,nextjs,python,git,github,githubactions,docker,aws,cloudflare)
+  ![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,php,laravel,tailwind,js,github)
+- アプリで使用経験あり Used in application projects :
+
+  `Python`, `Hono`, `GitHub`, `Actions`, `Docker`, `Cloudflare`, `Firebase`
+  
+  ![My Skills](https://skillicons.dev/icons?i=python)
+  ![My Skills](https://skills.syvixor.com/api/icons?i=hono)
+  ![My Skills](https://skillicons.dev/icons?i=githubactions,docker,cloudflare,firebase)
+- `AWS`: エクスパンション講座2回受講し、ハンズオンでEC2へのデプロイを経験
+  
+  Completed two advanced-level courses, including hands-on experience with deploying to EC2.
+  
+  ![My Skills](https://skillicons.dev/icons?i=aws)
 
 
 
