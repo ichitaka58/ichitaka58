@@ -44,7 +44,7 @@ Below are the languages, libraries, and tools I have learned.
   ![My Skills](https://skillicons.dev/icons?i=typescript,react,nextjs,php,laravel,tailwind,js,github)
 - アプリで使用経験あり Used in application projects :
 
-  `Python`, `Hono`, `GitHub`, `Actions`, `Docker`, `Cloudflare`, `Firebase`
+  `Python`, `Hono`, `GitHub Actions`, `Docker`, `Cloudflare`, `Firebase`
   
   ![My Skills](https://skillicons.dev/icons?i=python)
   ![My Skills](https://skills.syvixor.com/api/icons?i=hono)
