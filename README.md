@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 開発現場経験はありませんので、学習経験、個人開発レベルとなります。
 
-これまでに学んだ言語やライブラリ、ツール等です。
+これまでに学んだ言語やフレームワーク、ツール等です。
 
 I do not have professional development experience; my background consists of self-study and personal projects.
 
